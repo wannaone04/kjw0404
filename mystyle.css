@@ -1,0 +1,41 @@
+header {
+  padding-top:25px;
+  border-bottom : 1px gray solid;
+  padding-bottom : 35px;
+}
+
+header img{
+  position:absolute;
+  top:0%;
+  right:0%;
+}
+
+nav {
+  border-right: 1px gray solid;
+  width : 150px;
+  position:relative;
+  height:900px;
+  float:left;
+}
+
+nav li {
+  padding-bottom : 10px;
+}
+
+article{
+  padding : 20px;
+  float:left;
+}
+
+footer{
+  border-top : 1px gray solid;
+  position:relative;
+  height:80px;
+  width:100%;
+  float:right;
+  text-align: center;
+  padding-top:30px;
+}
+footer a{
+  padding-right : 40px;
+}
